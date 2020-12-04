@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Christian 👋
+
+![Christian](DSCF4567.jpeg)
 
 <!--
 **Chrede88/Chrede88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
