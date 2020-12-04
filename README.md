@@ -1,5 +1,3 @@
-### Hi there, I'm Christian 👋
-
 [![Christian](christian.jpg)](https://cjsolsen.com)
 
 <!--
